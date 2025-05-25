@@ -10,7 +10,7 @@ public class DeployAppApplication {
 
     @GetMapping("/")
     public String home() {
-        return "✅ Déployé avec succès via Docker + GitHub Actions + Azure!";
+        return "✅ Déployé avec succès via Docker + GitHub Actions + Azure! wwwwww";
     }
 
     public static void main(String[] args) {
